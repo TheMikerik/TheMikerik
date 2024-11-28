@@ -5,13 +5,6 @@
 - **Scanit** - An on-demand 3D Scanner app for **[IngCorporation](http://www.ingcorporation.cz)** as my final project for my bachelor's thesis.
 - **ActiveAppOverlayer** - A Flutter package that allows you to overlay an app over the entire screen when the selected app is opened.
 
-## 🛠️ Skills & Technologies
-- **Languages**: Flutter, Swift, C, C++ and Java (even though I hate it :D)
-- **Tools**: Visual Studio Code, Xcode, Homebrew
-- **Databases**: Firebase, SQLite, Supabase
-- **Platforms**: iOS, Android
-- **Development Focus**: Mobile app development, learning tools, AI integration
-
-<div style="text-align: center;">
-    <img src="https://wakatime.com/share/@TheMikerik/e14bfbd1-db1f-4f2b-b9e0-c034338f1e46.svg" alt="Wakatime Embed 1" width="700px">
-</div>
+<p align="center">
+    <img src="https://wakatime.com/share/@TheMikerik/e14bfbd1-db1f-4f2b-b9e0-c034338f1e46.svg" alt="Wakatime Embed 1" width="600px">
+</p>
