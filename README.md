@@ -1,1 +1,2 @@
-![TheMikerik's GitHub stats](https://github-readme-stats.vercel.app/api?username=themikerik&show_icons=true&theme=onedark)
+<figure><embed src="https://wakatime.com/share/@TheMikerik/e14bfbd1-db1f-4f2b-b9e0-c034338f1e46.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@TheMikerik/c830d1af-3642-423f-bdc0-0f7c69520e06.svg"></embed></figure>
