@@ -1,8 +1,7 @@
 # Hi there, I'm Michal Ručka! 👋
 
 ## 🔧 My Current Projects
-### Spaced Cards
-- **[spacedcards.app](https://spacedcards.app)**
+[Spaced Cards](https://spacedcards.app)
 - A space-themed mobile flashcard app that integrates with Screen Time to help you focus. It blocks access to selected apps until you go through a set number of flashcards.
 - Flutter, Dart, Swift, SuperWall, Sqlite
 - [Download on AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
