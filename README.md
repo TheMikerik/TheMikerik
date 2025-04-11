@@ -3,7 +3,7 @@
 ## 🔧 My Current Projects
 [Spaced Cards](https://spacedcards.app)
 - A space-themed mobile flashcard app that integrates with Screen Time to help you focus. It blocks access to selected apps until you go through a set number of flashcards.
-- STACK: Flutter, Dart, Swift, SuperWall, Sqlite
+- STACK: Flutter, Dart, Swift, SuperWall, Supabase, Posthog, Sentry, Powersync
 - Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
 
 ### Scanit
@@ -12,7 +12,7 @@
   
 [Pomakspo](https://github.com/TheMikerik/Pomakspo)
 - A gamified fitness app built for a client. It features GPS tracking, leaderboards, and paid challenges — 100% of the proceeds from these go directly to charity, with no profit taken.
-- STACK: Flutter, Dart, Java, Sqlite
+- STACK: Flutter, Dart, Swift, Java, Supabase, Sentry, Powersync
 
 ## 📊 Languages I Use
 <p align="center">
