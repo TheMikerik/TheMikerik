@@ -10,7 +10,7 @@
 - An on-demand 3D Scanner app for **[IngCorporation](http://www.ingcorporation.cz)** as my final project for my bachelor's thesis.
 - STACK: Swift, Python, OpenCV
   
-[Pomakspo](https://github.com/TheMikerik/Poakspo)
+[Pomakspo](https://github.com/TheMikerik/Pomakspo)
 - A gamified fitness app built for a client. It features GPS tracking, leaderboards, and paid challenges — 100% of the proceeds from these go directly to charity, with no profit taken.
 - STACK: Flutter, Dart, Java, Sqlite
 
