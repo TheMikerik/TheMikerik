@@ -7,7 +7,7 @@
 - Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
 
 ### Scanit
-- An on-demand 3D Scanner app for **[IngCorporation](http://www.ingcorporation.cz)** as my final project for my bachelor's thesis.
+- An on-demand 3D Scanner app for **[Invent Medical Group](https://www.inventmedical.com)** as my final project for my bachelor's thesis.
 - STACK: Flutter, Swift, Python, OpenCV
   
 [Pomakspo](https://github.com/TheMikerik/Pomakspo)
