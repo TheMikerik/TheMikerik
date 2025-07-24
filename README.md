@@ -10,7 +10,7 @@
 - An on-demand 3D Scanner app for **[Invent Medical Group](https://www.inventmedical.com)** as my final project for my bachelor's thesis.
 - STACK: Flutter, Swift, Python, OpenCV
   
-[Pomakspo](https://github.com/TheMikerik/Pomakspo)
+[Nezávodím Pomáhám App](https://nezavodim-pomaham.cz)
 - A gamified fitness app built for a client. It features GPS tracking, leaderboards, and paid challenges — 100% of the proceeds from these go directly to charity, with no profit taken.
 - STACK: Flutter, Dart, Swift, Java, Supabase, Sentry, Powersync
 
