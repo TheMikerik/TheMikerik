@@ -6,7 +6,7 @@
 - STACK: Flutter, Dart, Swift, SuperWall, Supabase, Posthog, Sentry, Powersync
 - Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
 
-### Scanit
+### [Scanit](https://github.com/TheMikerik/scanit-public)
 - An on-demand 3D Scanner app for **[Invent Medical Group](https://www.inventmedical.com)** as my final project for my bachelor's thesis.
 - STACK: Flutter, Swift, Python, OpenCV
   
