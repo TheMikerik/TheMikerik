@@ -14,7 +14,7 @@ I'm a Flutter and iOS developer passionate about creating intuitive apps with cl
   
 ### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz)
 - A gamified fitness app built for a client. It features GPS tracking, leaderboards, and paid challenges — 100% of the proceeds from these go directly to charity, with no profit taken.
-- STACK: Flutter · Dart · Swift · Java · Supabase · Powersync 
+- STACK: Flutter · Dart · Swift · Java · Supabase · Powersync · Sentry
 
 ## 📊 Languages I Use
 <p align="center">
