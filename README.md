@@ -12,7 +12,7 @@ I'm a Flutter and iOS developer passionate about creating intuitive apps with cl
 - An on-demand 3D Scanner app for **[Invent Medical Group](https://www.inventmedical.com)** as my final project for my bachelor's thesis.
 - STACK: Flutter · Swift · Python · OpenCV 
   
-### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz)
+### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz) [WORK IN PROGRESS]
 - A gamified fitness app built for a client. It features GPS tracking, leaderboards, and paid challenges — 100% of the proceeds from these go directly to charity, with no profit taken.
 - STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
 
