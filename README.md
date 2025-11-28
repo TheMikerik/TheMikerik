@@ -1,6 +1,23 @@
 # Hi there, I'm Michal Ručka! 👋
-I'm a Flutter and iOS developer passionate about creating intuitive apps with clean design, smooth user experience, and solid backend integrations.
+I'm a mobile developer focused on building clean, efficient and well-architected Flutter & iOS apps.
+I enjoy working end-to-end from UI/UX and architecture to backend integrations and performance tuning.
+I believe consistency and hard work beat talent.
 
+## My Job Experiences
+### BCLogia a.s.
+- Oct 2025 - Present | Mobile App Developer | Freelance
+- Developing a lightweight Android application for the KT50 B2 RFID/QR industrial reader. The app enables offline field data collection, GPS-based address pairing using RUIAN datasets, and duplicate detection for scanned items. Data is securely synced to an API through custom log entities.
+- STACK: Flutter · Kotlin · Java · Drift · Sentry
+
+### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz)
+- Jun 2025 - Present | Mobile App Developer | Freelance
+- Built a sports and activity tracking iOS & Android app from initial design to backend development and final release, featuring gamified challenges, leaderboards, GPS-based activity monitoring, and paid charitable challenges. Responsible for end-to-end development and implementation of key features to maximize user engagement and motivation.
+- STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
+
+### [Scanit](https://github.com/TheMikerik/scanit-public)
+- Sep 2024 - Jun 2025 | Mobile App Developer | Internship
+- Developed ScanIt, a prototype iOS application for 3D object scanning using the TrueDepth camera as part of my Bachelor’s thesis internship at **[Invent Medical Group](https://www.inventmedical.com)**. Designed the overall architecture, implemented the Flutter-based user interface, and integrated native Swift modules with a Python backend for real-time depth data processing and 3D mesh generation.
+- STACK: Flutter · Swift · Python · OpenCV 
 
 ## 🔧 My Current Projects
 ### [Spaced Cards](https://spacedcards.app)
@@ -8,13 +25,9 @@ I'm a Flutter and iOS developer passionate about creating intuitive apps with cl
 - STACK: Flutter · Swift · SuperWall · Supabase · Posthog · Sentry · Powersync 
 - Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
 
-### [Scanit](https://github.com/TheMikerik/scanit-public)
-- An on-demand 3D Scanner app for **[Invent Medical Group](https://www.inventmedical.com)** as my final project for my bachelor's thesis.
-- STACK: Flutter · Swift · Python · OpenCV 
+
   
-### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz) [WORK IN PROGRESS]
-- A gamified fitness app built for a client. It features GPS tracking, leaderboards, and paid challenges — 100% of the proceeds from these go directly to charity, with no profit taken.
-- STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
+
 
 ## 📊 Languages I Use
 <p align="center">
