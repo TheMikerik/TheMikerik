@@ -9,7 +9,7 @@ I believe consistency and hard work beat talent.
 - Developing a lightweight Android app for the KT50 B2 RFID/QR reader with offline data collection, GPS-based RUIAN address pairing, duplicate scan detection, and secure API sync.
 - STACK: Flutter · Kotlin · Java · Drift · Sentry
 
-### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz)
+### [Nezávodím Pomáhám](https://nezavodim-pomaham.cz)
 - Jun 2025 - Present | Mobile App Developer | Freelance
 - Built a cross-platform sports tracking app with gamified challenges, leaderboards, GPS activity monitoring, and paid charitable challenges. Delivered the full product from design to backend and final release.
 - STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
