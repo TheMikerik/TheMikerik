@@ -4,19 +4,19 @@ I enjoy working end-to-end from UI/UX and architecture to backend integrations a
 I believe consistency and hard work beat talent.
 
 ## My Job Experiences
-### BCLogia a.s.
+### [BCLogia a.s.](https://bclogia.cz)
 - Oct 2025 - Present | Mobile App Developer | Freelance
-- Developing a lightweight Android application for the KT50 B2 RFID/QR industrial reader. The app enables offline field data collection, GPS-based address pairing using RUIAN datasets, and duplicate detection for scanned items. Data is securely synced to an API through custom log entities.
+- Developing a lightweight Android app for the KT50 B2 RFID/QR reader with offline data collection, GPS-based RUIAN address pairing, duplicate scan detection, and secure API sync.
 - STACK: Flutter · Kotlin · Java · Drift · Sentry
 
 ### [Nezávodím Pomáhám App](https://nezavodim-pomaham.cz)
 - Jun 2025 - Present | Mobile App Developer | Freelance
-- Built a sports and activity tracking iOS & Android app from initial design to backend development and final release, featuring gamified challenges, leaderboards, GPS-based activity monitoring, and paid charitable challenges. Responsible for end-to-end development and implementation of key features to maximize user engagement and motivation.
+- Built a cross-platform sports tracking app with gamified challenges, leaderboards, GPS activity monitoring, and paid charitable challenges. Delivered the full product from design to backend and final release.
 - STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
 
-### [Scanit](https://github.com/TheMikerik/scanit-public)
+### [Invent Medical Group](https://www.inventmedical.com)
 - Sep 2024 - Jun 2025 | Mobile App Developer | Internship
-- Developed ScanIt, a prototype iOS application for 3D object scanning using the TrueDepth camera as part of my Bachelor’s thesis internship at **[Invent Medical Group](https://www.inventmedical.com)**. Designed the overall architecture, implemented the Flutter-based user interface, and integrated native Swift modules with a Python backend for real-time depth data processing and 3D mesh generation.
+- Developed **[ScanIt](https://github.com/TheMikerik/scanit-public)**, a prototype iOS app for 3D object scanning using the TrueDepth camera. Designed the architecture, built the Flutter UI, and integrated Swift modules with a Python backend for real-time depth processing and mesh generation.
 - STACK: Flutter · Swift · Python · OpenCV 
 
 ## 🔧 My Current Projects
