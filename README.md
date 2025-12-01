@@ -14,7 +14,7 @@ I believe consistency and hard work beat talent.
 - Built a cross-platform sports tracking app with gamified challenges, leaderboards, GPS activity monitoring, and paid charitable challenges. Delivered the full product from design to backend and final release.
 - STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
 
-### [Invent Medical Group](https://www.inventmedical.com)
+### [Invent Medical Group, s.r.o.](https://www.inventmedical.com)
 - Sep 2024 - Jun 2025 | Mobile App Developer | Internship
 - Developed **[ScanIt](https://github.com/TheMikerik/scanit-public)**, a prototype iOS app for 3D object scanning using the TrueDepth camera. Designed the architecture, built the Flutter UI, and integrated Swift modules with a Python backend for real-time depth processing and mesh generation.
 - STACK: Flutter · Swift · Python · OpenCV 
