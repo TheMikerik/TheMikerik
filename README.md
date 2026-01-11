@@ -20,7 +20,7 @@ I believe consistency and hard work beat talent.
 - STACK: Flutter · Swift · Python · OpenCV 
 
 ## 🔧 My Current Projects
-### [Spaced Cards](https://spacedcards.app) (Co-Founder)
+### [Study G](https://studyg.app) (Co-Founder)
 - A space-themed mobile flashcard app that integrates with Screen Time to help you focus. It blocks access to selected apps until you go through a set number of flashcards.
 - STACK: Flutter · Swift · SuperWall · Supabase · Posthog · Sentry · Powersync 
 - Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
