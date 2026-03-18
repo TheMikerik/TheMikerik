@@ -4,11 +4,14 @@ I enjoy working end-to-end from UI/UX and architecture to backend integrations a
 I believe consistency and hard work beat talent.
 
 ## My Job Experiences
+[QUITTR App](https://quittrapp.com) <span style="font-size: 70%; color: #888;">(QA Tester)</span>
+- Executing comprehensive manual testing to identify functional bugs and UI inconsistencies. Providing strategic UX feedback and detailed bug reports to streamline the development cycle.
+
 [BCLogia a.s.](https://bclogia.cz) <span style="font-size: 70%; color: #888;">(Freelance)</span>
 - Developing a lightweight Android app for the KT50 B2 RFID/QR reader with offline data collection, GPS-based RUIAN address pairing, duplicate scan detection, and secure API sync.
 - STACK: Flutter · Kotlin · Java · Drift · Sentry
 
-[Foundation Nezávodím Pomáhám](https://nezavodim-pomaham.cz) <span style="font-size: 70%; color: #888;">(Freelance | Download on [AppStore](https://apps.apple.com/cz/app/id6757991109))</span>
+[Foundation Nezávodím Pomáhám](https://nezavodim-pomaham.cz) <span style="font-size: 70%; color: #888;">(Freelance | [AppStore](https://apps.apple.com/cz/app/id6757991109))</span>
 - Built a cross-platform sports tracking app with gamified challenges, leaderboards, GPS activity monitoring, and paid charitable challenges. Delivered the full product from design to backend and final release.
 - STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
 
@@ -17,7 +20,7 @@ I believe consistency and hard work beat talent.
 - STACK: Flutter · Swift · Python · OpenCV
 
 ## 🔧 My Current Projects
-[Study G](https://studyg.app) (Co-Founder | Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646))
+[Study G](https://studyg.app) (Co-Founder | [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646))
 - Mobile flashcard app that integrates with Screen Time to help you focus. It blocks access to selected apps until you go through a set number of flashcards.
 - STACK: Flutter · Swift · SuperWall · Supabase · Posthog · Sentry · Powersync 
 
