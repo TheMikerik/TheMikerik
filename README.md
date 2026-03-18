@@ -8,17 +8,16 @@ I believe consistency and hard work beat talent.
 - Developing a lightweight Android app for the KT50 B2 RFID/QR reader with offline data collection, GPS-based RUIAN address pairing, duplicate scan detection, and secure API sync.
 - STACK: Flutter · Kotlin · Java · Drift · Sentry
 
-[Foundation Nezávodím Pomáhám](https://nezavodim-pomaham.cz) <span style="font-size: 70%; color: #888;">(Freelance)</span>
+[Foundation Nezávodím Pomáhám](https://nezavodim-pomaham.cz) <span style="font-size: 70%; color: #888;">(Freelance | Download on [AppStore](https://apps.apple.com/cz/app/id6757991109))</span>
 - Built a cross-platform sports tracking app with gamified challenges, leaderboards, GPS activity monitoring, and paid charitable challenges. Delivered the full product from design to backend and final release.
 - STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
-- Download on [AppStore](https://apps.apple.com/cz/app/id6757991109)
 
 [Invent Medical Group, s.r.o.](https://www.inventmedical.com) <span style="font-size: 70%; color: #888;">(Internship)</span>
 - Developed **[ScanIt](https://github.com/TheMikerik/scanit-public)**, a prototype iOS app for 3D object scanning using the TrueDepth camera. Designed the architecture, built the Flutter UI, and integrated Swift modules with a Python backend for real-time depth processing and mesh generation.
 - STACK: Flutter · Swift · Python · OpenCV
 
 ## 🔧 My Current Projects
-[Study G](https://studyg.app) (Co-Founder | Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646) )
+[Study G](https://studyg.app) (Co-Founder | Download on [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646))
 - Mobile flashcard app that integrates with Screen Time to help you focus. It blocks access to selected apps until you go through a set number of flashcards.
 - STACK: Flutter · Swift · SuperWall · Supabase · Posthog · Sentry · Powersync 
 
