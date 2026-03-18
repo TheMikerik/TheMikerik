@@ -4,7 +4,7 @@ I enjoy working end-to-end from UI/UX and architecture to backend integrations a
 I believe consistency and hard work beat talent.
 
 ## My Job Experiences
-### [BCLogia a.s.](https://bclogia.cz) <span style="font-size: 70%; color: #888;">(Freelance)</span>
+[BCLogia a.s.](https://bclogia.cz) <span style="font-size: 70%; color: #888;">(Freelance)</span>
 - Oct 2025 - Present | Mobile App Developer
 - Developing a lightweight Android app for the KT50 B2 RFID/QR reader with offline data collection, GPS-based RUIAN address pairing, duplicate scan detection, and secure API sync.
 - STACK: Flutter · Kotlin · Java · Drift · Sentry
