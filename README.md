@@ -34,12 +34,13 @@ I'm a mobile developer focused on building clean, efficient, and well architecte
 
 ---
 
+### 💬 Connect with me
+👉 [LinkedIn](www.linkedin.com/in/michal-ručka-ba0880252) 
+📧 [Email](mailto:michal.rucka1@seznam.cz)
+
+---
+
 ### 📊 Coding Stats
 <p align="center">
     <img src="https://wakatime.com/share/@TheMikerik/c9d06d0f-c103-4468-b81d-0aeaff55def2.svg" alt="Wakatime Stats" width="600px">
 </p>
-
----
-
-### 💬 Connect with me
-👉 [LinkedIn](www.linkedin.com/in/michal-ručka-ba0880252) | 📧 [Email](mailto:michal.rucka1@seznam.cz)
