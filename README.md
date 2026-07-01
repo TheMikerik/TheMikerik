@@ -35,7 +35,7 @@ I'm a mobile developer focused on building clean, efficient, and well architecte
 ---
 
 ### 💬 Connect with me
-👉 [LinkedIn](www.linkedin.com/in/michal-ručka-ba0880252) 
+👉 [LinkedIn](www.linkedin.com/in/michal-ručka-ba0880252) <br>
 📧 [Email](mailto:michal.rucka1@seznam.cz)
 
 ---
