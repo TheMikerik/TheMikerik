@@ -1,34 +1,45 @@
 # Hi there, I'm Michal Ručka! 👋
-I'm a mobile developer focused on building clean, efficient and well-architected Flutter & iOS apps.
-I enjoy working end-to-end from UI/UX and architecture to backend integrations and performance tuning.
-I believe consistency and hard work beat talent.
 
-## My Job Experiences
-[QUITTR App](https://quittrapp.com) <span style="font-size: 70%; color: #888;">(QA Tester)</span>
-- Executing comprehensive manual testing to identify functional bugs and UI inconsistencies. Providing strategic UX feedback and detailed bug reports to streamline the development cycle.
+I'm a mobile developer focused on building clean, efficient, and well architected Flutter & iOS apps. I enjoy working end to end from UI/UX and architecture to native integrations and performance tuning.
 
-[BCLogia a.s.](https://bclogia.cz) <span style="font-size: 70%; color: #888;">(Freelance)</span>
-- Developing a lightweight Android app for the KT50 B2 RFID/QR reader with offline data collection, GPS-based RUIAN address pairing, duplicate scan detection, and secure API sync.
-- STACK: Flutter · Kotlin · Java · Drift · Sentry
+🚀 *Consistency and hard work beat talent.*
 
-[Foundation Nezávodím Pomáhám](https://nezavodim-pomaham.cz) <span style="font-size: 70%; color: #888;">(Freelance | [AppStore](https://apps.apple.com/cz/app/id6757991109))</span>
-- Built a cross-platform sports tracking app with gamified challenges, leaderboards, GPS activity monitoring, and paid charitable challenges. Delivered the full product from design to backend and final release.
-- STACK: Flutter · Swift · Java · Supabase · Powersync · Sentry
+---
 
-[Invent Medical Group, s.r.o.](https://www.inventmedical.com) <span style="font-size: 70%; color: #888;">(Internship)</span>
-- Developed **[ScanIt](https://github.com/TheMikerik/scanit-public)**, a prototype iOS app for 3D object scanning using the TrueDepth camera. Designed the architecture, built the Flutter UI, and integrated Swift modules with a Python backend for real-time depth processing and mesh generation.
-- STACK: Flutter · Swift · Python · OpenCV
+### 🛠️ Tech Stack & Tools
 
-## 🔧 My Current Projects
-[Study G](https://studyg.app) (Co-Founder | [AppStore](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646))
-- Mobile flashcard app that integrates with Screen Time to help you focus. It blocks access to selected apps until you go through a set number of flashcards.
-- STACK: Flutter · Swift · SuperWall · Supabase · Posthog · Sentry · Powersync 
+- **Languages:** Dart, Swift, Kotlin, Java, Pytho
+- **Frameworks & Libs:** Flutter, SwiftUI, Drift, PowerSync
+- **Backend & BaaS:** Supabase, Firebase, Custom REST APIs
+- **Architecture & Ops:** Clean Architecture, BLoC / Riverpod, CI/CD, Sentry, PostHog
 
+---
 
-  
+### 🚀 Featured Projects
 
+#### 📱 [Study G](https://studyg.app) (Co-Founder)
+*Mobile flashcard app integrating with iOS Screen Time to block distracting apps until you study.*
+- **Tech:** Flutter, Swift (Device Activity / Shield configuration), SuperWall, Supabase, PowerSync
+- [App Store Link](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
 
-## 📊 Languages I Use
+#### 🏃 [Nezávodím Pomáhám](https://nezavodim-pomaham.cz) (Freelance)
+*Cross-platform sports tracking app with gamified challenges, GPS monitoring, and charitable rewards.*
+- **Tech:** Flutter, Swift, Java, Supabase, PowerSync, Sentry
+- [App Store Link](https://apps.apple.com/cz/app/id6757991109)
+
+#### 📷 [ScanIt](https://github.com/TheMikerik/scanit-public) (Internship @ Invent Medical)
+*Prototype iOS app for 3D object scanning using the TrueDepth camera.*
+- **Tech:** Flutter, Swift, Python, OpenCV, Real-time depth processing
+- 📦 **[View Public Repo](https://github.com/TheMikerik/scanit-public)**
+
+---
+
+### 📊 Coding Stats
 <p align="center">
-    <img src="https://wakatime.com/share/@TheMikerik/c9d06d0f-c103-4468-b81d-0aeaff55def2.svg" alt="Wakatime Embed 1" width="600px">
+    <img src="https://wakatime.com/share/@TheMikerik/c9d06d0f-c103-4468-b81d-0aeaff55def2.svg" alt="Wakatime Stats" width="600px">
 </p>
+
+---
+
+### 💬 Connect with me
+👉 [LinkedIn](www.linkedin.com/in/michal-ručka-ba0880252) | 📧 [Email](mailto:michal.rucka1@seznam.cz)
