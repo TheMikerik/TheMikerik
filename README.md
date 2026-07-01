@@ -17,7 +17,7 @@ I'm a mobile developer focused on building clean, efficient, and well architecte
 
 ### 🚀 Featured Projects
 
-#### 📱 [Study G](https://studyg.app) (Co-Founder)
+#### 📱 [Pretty Smart](https://studyg.app) (Co-Founder)
 *Mobile flashcard app integrating with iOS Screen Time to block distracting apps until you study.*
 - **Tech:** Flutter, Swift (Device Activity / Shield configuration), SuperWall, Supabase, PowerSync
 - [App Store Link](https://apps.apple.com/us/app/spacedcards-spaced-repetition/id6741184646)
