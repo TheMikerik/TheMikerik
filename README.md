@@ -8,7 +8,7 @@ I'm a mobile developer focused on building clean, efficient, and well architecte
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Dart, Swift, Kotlin, Java, Pytho
+- **Languages:** Dart, Swift, Kotlin, Java, Python
 - **Frameworks & Libs:** Flutter, SwiftUI, Drift, PowerSync
 - **Backend & BaaS:** Supabase, Firebase, Custom REST APIs
 - **Architecture & Ops:** Clean Architecture, BLoC / Riverpod, CI/CD, Sentry, PostHog
